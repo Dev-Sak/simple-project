@@ -1,18 +1,20 @@
 # simple-project
 
-This repository contains simple chatbot projects built using Python and basic machine learning techniques.  
-These projects are designed to help understand natural language processing (NLP) and chatbot development.
+A collection of simple, beginner-friendly projects focused on AI, machine learning, and programming.
 
 ## Projects
 
-### 1. Basic Rule-Based Chatbot
-- A chatbot that replies based on predefined rules and keywords.
+### 1. Spam Message Classifier
+- Classifies SMS messages as spam or not spam using basic machine learning.
 
-### 2. Simple AI Chatbot
-- A chatbot using a basic machine learning model for response generation.
+### 2. Rule-Based Chatbot
+- A chatbot that responds based on predefined rules.
+
+### 3. Upcoming Projects
+- More projects will be added, including AI-based chatbots and image classifiers.
 
 ## How to Run
 
-1. Clone the repository:  
+1. Clone this repository:  
    ```bash
-   git clone https://github.com/Dev-Sak/simple-project.git
+   git clone https://github.com/yourusername/simple-project.git
