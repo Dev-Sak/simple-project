@@ -17,4 +17,4 @@ A collection of simple, beginner-friendly projects focused on AI, machine learni
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/simple-project.git
+   git clone https://github.com/Dev-Sak/simple-project.git
